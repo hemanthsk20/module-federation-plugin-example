@@ -13,7 +13,7 @@ sharedMappings.register(
 module.exports = {
   output: {
     uniqueName: "mfe1",
-    publicPath: "auto"
+    // publicPath: "auto"
   },
   optimization: {
     runtimeChunk: false
